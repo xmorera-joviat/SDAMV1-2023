@@ -1,5 +1,0 @@
-salutacions des de la terra!
-
-explicar us bàsic de l'editor vi
-
-remarcar que aquest editor només és per linux o bé per gitbash
