@@ -1,6 +1,0 @@
-git pull ---- agafa els continguts nous del repositori
-
-git add * ------ afegir els arxius que volem
-
-git commit -m ---- defineix el registre dels canvis
-
